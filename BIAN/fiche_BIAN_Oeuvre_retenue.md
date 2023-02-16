@@ -3,7 +3,13 @@
 ![photo devant entrer](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_devant_entrer.png)
 
 exposition temporaire en intérieur
-2 fevrier 2022
-nature morte
+j'ai visité le 2 fevrier 2022.
+nature morte,fait par Baron Lanteigne en 2022.
 
-   ![photo euvre 04](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_oeuvre_04.png)
+![photo euvre 04](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_oeuvre_04.png)
+
+(ecrire un description de l'oeuve)
+
+![photo info]()
+
+
