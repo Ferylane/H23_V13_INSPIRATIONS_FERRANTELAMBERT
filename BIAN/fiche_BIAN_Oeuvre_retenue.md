@@ -12,4 +12,9 @@ nature morte,fait par Baron Lanteigne en 2022.
 
 ![photo info](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_info.png)
 
+ineraction comptemplative (+ ecrire detail)
+
+
+![photo instalation]()
+
 
