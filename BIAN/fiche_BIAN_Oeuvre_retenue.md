@@ -3,7 +3,7 @@
 ![photo devant entrer](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_devant_entrer.png)
 
 exposition temporaire en intérieur
-j'ai visité le 2 fevrier 2022.
+j'ai visité le 2 fevrier 2023.
 nature morte,fait par Baron Lanteigne en 2022.
 
 ![photo euvre 04](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_oeuvre_04.png)
@@ -15,6 +15,8 @@ nature morte,fait par Baron Lanteigne en 2022.
 ineraction comptemplative (+ ecrire detail)
 
 
-![photo instalation]()
+![photo instalation](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_instalation.png)
+
+![photo oeuvre 01]()
 
 
