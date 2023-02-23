@@ -19,6 +19,6 @@ instalation immersive
 
 l'euvre etait a cote d'un des mur de la sale rectangulaire, mais pas trop non plus pour laisser des personnes admirer de ce point de vu. A cote il y avait une autre oeuvre qui presantait aussi la nature et la technologie.
 ![photo oeuvre 01](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_oeuvre_01.png)
-![instalation_composante]()
+![instalation_composante](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/instalation_composante.png)
 
 
