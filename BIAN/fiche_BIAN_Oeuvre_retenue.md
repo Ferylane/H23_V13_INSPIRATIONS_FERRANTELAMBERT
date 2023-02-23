@@ -2,29 +2,29 @@
 
 ![photo devant entrer](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_devant_entrer.png)
 
-Cette expositionen etait une temporaire en intérieur que j'ai visité le 2 fevrier 2023,
+Cette exposition était une temporaire en intérieur que j'ai visité le 2 février 2023,
 
-L'oeuvre que j'ai choisi est "nature morte 7",fait par Baron Lanteigne en 2022.
+L'œuvre que j'ai choisi est "nature morte 7", fait par Baron Lanteigne en 2022.
 
 ![photo euvre 04](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_oeuvre_04.png)
 
-Cette oeuvre represente la nature qui reprend le controle sur la technologie. composer de plusieurs ecran,celle-ci laisse apparent les composant electronique afin de mettre en evidence leur fonctionnement interne et ainsi reveler le potentiel de ces reseaux modulaires, souvent banaliser.Les ecrans sont agencer de facon a creer un environement immersif liant experience physique et virtuelle. La nature immersive de cette instalation souligne l'omnipresence des technologies dans nous vie.
+Cette œuvre représente la nature qui reprend le contrôle sur la technologie. Composée de plusieurs écrans, celle-ci laisse apparent les composants électroniques afin de mettre en évidence leur fonctionnement interne et ainsi révéler le potentiel de ces réseaux modulaires, souvent banalisés. Les écrans sont agencés de façon à créer un environnement immersif liant expérience physique et virtuelle. La nature immersive de cette installation souligne l'omniprésence des technologies dans nos vies.
 
 ![photo info](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_info.png)
 
-instalation immersive
+C'était une installation immersive
 
 ![photo instalation](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_instalation.png)
 
-l'euvre etait a cote d'un des mur de la sale rectangulaire, mais pas trop non plus pour laisser des personnes admirer de ce point de vu. A cote il y avait une autre oeuvre qui presantait aussi la nature et la technologie.
+L'œuvre était à cotée d'un des murs de la salle rectangulaire, mais pas trop non plus pour laisser des personnes admirer de ce point de vue. À côté, il y avait une autre œuvre qui présentait aussi la nature et la technologie.
 
 ![photo oeuvre 01](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_oeuvre_01.png)
 
-Il y a 7 ecrans allonger sur le sol et deux autre acrocher au plafond par des cables, il y a aussi de la vegetation un peu partout. L’oeuvre fait appel au contenant autant qu'au contenu ; l'électronique physique est aussi apparente que ce qui est affiché à l'écran. Toutes les deux invitent à la réflexion en liant nos deux réalités vécues, physique et virtuelle. Le réseau modulaire d'électronique que l'on voit à l'arrière de la sculpture crée une lueur qui étend le monde virtuel dans l'écran, à l’aide de la lumière. L'œuvre agrandit et exagère également l'espace que prend une telle technologie, afin de souligner son omniprésence.
+Il y a 7 écrans allongés sur le sol et deux autres accrochés au plafond par des câbles, il y a aussi de la végétation un peu partout. L’œuvre fait appel au contenant autant qu'au contenu ; l'électronique physique est aussi apparente que ce qui est affiché à l'écran. Toutes les deux invitent à la réflexion en liant nos deux réalités vécues, physique et virtuelle. Le réseau modulaire d'électronique que l'on voit à l'arrière de la sculpture crée une lueur qui étend le monde virtuel dans l'écran, à l’aide de la lumière. L'œuvre agrandit et exagère également l'espace que prend une telle technologie, afin de souligner son omniprésence.
 
 ![instalation_composante](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/instalation_composante.png)
 
-Cette oeuvre ma fait realiser que la technologie est enormement presente dans nos vie et que defois on oublie la nature, qui est justement pourquoi nous sommes tous en vie. Personnellement, j'ai beaucoup aimer, moi qui aime la technologie, cette partie de l'exposition ma enormement interesser, surtout cette oeuvre qui ma taper au yeux quand je l'ai apercu.
+Cette œuvre ma fait réaliser que la technologie est énormément présente dans nos vie et que parfois on oublient la nature, qui est justement pourquoi nous sommes tous en vie. Personnellement, j'ai beaucoup aimé, moi qui aime la technologie, cette partie de l'exposition ma énormément intéresser, surtout cette œuvre qui m’a tapé aux yeux quand je l'ai aperçu.
 
-J'aurai aimer que l'oeuvre serait un peu plus gros, peut etre faire cette oeuvre en version plus volumineuse, ca serait beau estetiquement et une experience encore plus immersive, dans l'exposition je sentait pas vraiment l'imersion vu que on voyait les autres oeuvre a coté.
+J'aurai aimé que l'œuvre serait un peu plus gros, peut-être faire cette œuvre en version plus volumineuse, ça serait beau esthétiquement et une expérience encore plus immersive, dans l'exposition je ne sentais pas vraiment l'immersion vu que on voyait les autres œuvre a côté.
 
