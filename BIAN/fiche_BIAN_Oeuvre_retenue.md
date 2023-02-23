@@ -2,21 +2,22 @@
 
 ![photo devant entrer](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_devant_entrer.png)
 
-exposition temporaire en intérieur
-j'ai visité le 2 fevrier 2023.
-nature morte,fait par Baron Lanteigne en 2022.
+Cette expositionen etait une temporaire en intérieur que j'ai visité le 2 fevrier 2023,
+
+L'oeuvre que j'ai choisi est "nature morte 7",fait par Baron Lanteigne en 2022.
 
 ![photo euvre 04](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_oeuvre_04.png)
 
-(ecrire un description de l'oeuve)
+Cette oeuvre represente la nature qui reprend le controle sur la technologie. composer de plusieurs ecran,celle-ci laisse apparent les composant electronique afin de mettre en evidence leur fonctionnement interne et ainsi reveler le potentiel de ces reseaux modulaires, souvent banaliser.Les ecrans sont agencer de facon a creer un environement immersif liant experience physique et virtuelle. La nature immersive de cette instalation souligne l'omnipresence des technologies dans nous vie.
 
 ![photo info](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_info.png)
 
-ineraction comptemplative (+ ecrire detail)
+instalation immersive
 
 
 ![photo instalation](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_instalation.png)
 
+l'euvre etait a cote d'un des mur de la sale rectangulaire, mais pas trop non plus pour laisser des personnes admirer de ce point de vu. A cote il y avait une autre oeuvre qui presantait aussi la nature et la technologie.
 ![photo oeuvre 01](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/BIAN/photo/photo_oeuvre_01.png)
 
 
