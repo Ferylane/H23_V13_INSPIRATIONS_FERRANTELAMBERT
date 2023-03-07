@@ -1,13 +1,16 @@
 # [Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 Réalisée par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
+
+
+
 # [ENTRE FUNGUS](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 Réalisée par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche ,Jean-Christophe
 
 Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnue : Entre Fungus. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous leurs yeux. Une structure centrale attire l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et s'approchent de la dite structure: des lumières s'allument, des sons se déclenchent, et il semblerait que la présence de plusieurs personnes soit nécessaire pour progresser...
 
-Pour l'instant ce prototype est une petite partie de un pilier, un pilier qui est composer de quatre cote et chaque cote a un mechanisme qui peut reconnaitre quand une personne est devant et cela dechlanche un son, chaque cote fait un son et plus de cote activer fait une meilleur melodie.
+Pour l'instant ce prototype est une petite partie de un pilier, un pilier qui est composer de quatre cote et chaque cote a un mechanisme qui peut reconnaitre quand une personne est devant et cela dechlanche un son, chaque cote fait un son et plus de cote activer fait une meilleur melodie. Il y a aussi un spectacle de couleurs avec de la verdure autour.
 
-plus tard ce projet va etre a l'exterieur 
+Plus tard ce projet va etre a l'exterieur et il va y avoir une multitude de piliers plus haut, il va avoir le systeme de detection de personne mais cette fois si ca ne va plus etre en dispositif voyant en bas du pilier, ils vont etre cacher dans le pilier pour une meilleur esthetique
 
 # [LumaSol](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 Réalisée par Éloïse Gagné, Skayla Stimphil, Michaël Simard, Pénélope Morrisson
