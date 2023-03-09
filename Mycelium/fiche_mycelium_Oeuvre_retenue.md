@@ -46,6 +46,7 @@ Réalisée par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des
 Les visiteurs empruntent ce sentier illuminé. Lors de leurs déplacements, ceux-ci se rendent compte que le sentier interagit à leurs passages; les lumières commencent à scintiller et les sons s'intensifient pour donner un sentiment serein. Dans le chemin lumineux se trouve des codes QR qui, une fois scannés, présentent une animation qui montrant la vie dans ce marais.
 
 ### Installation prevue
+![boucler la boucle_shemas.png](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Mycelium/photo/Boucler%20la%20boucle_shemas.png)
 
 ### Lien avec Mycelium
 
