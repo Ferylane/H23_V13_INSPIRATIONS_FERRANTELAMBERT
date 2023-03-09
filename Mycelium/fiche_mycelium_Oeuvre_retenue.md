@@ -2,6 +2,7 @@
 Réalisée par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
 
 Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Echomarine a un but contemplatif et vise à conscientiser.
+![Watch the video](https://www.youtube.com/shorts/6SkJz_1LyKA)
 
 Il y a des projection sur les murs grace a des projecteurs avec un ordinateur qui nous permet de faire appparaitre des creatures marin sur les murs et une description du mamifere avec une trame sonor calmant en arriere plan.
 
