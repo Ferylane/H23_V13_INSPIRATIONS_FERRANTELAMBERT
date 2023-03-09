@@ -9,6 +9,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 Il y a des projection sur les murs grace a des projecteurs avec un ordinateur qui nous permet de faire appparaitre des creatures marin sur les murs et une description du mamifere avec une trame sonor calmant en arriere plan.
 ## Installation prevue
 plus tard ce projet sera dans un espace plus grand et on pourait faire apparaitre les mamifere marin d'une tablette.
+!(https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Mycelium/photo/echomarine_shemas.png)
 
 
 ## Lien avec Mycelium
