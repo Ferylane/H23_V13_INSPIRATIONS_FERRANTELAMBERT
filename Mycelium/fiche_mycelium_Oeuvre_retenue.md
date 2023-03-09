@@ -7,7 +7,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 ![Watch the video](https://www.youtube.com/shorts/6SkJz_1LyKA)
 
 Il y a des projection sur les murs grace a des projecteurs avec un ordinateur qui nous permet de faire appparaitre des creatures marin sur les murs et une description du mamifere avec une trame sonor calmant en arriere plan.
-### Installation prevue
+## Installation prevue
 plus tard ce projet sera dans un espace plus grand et on pourait faire apparaitre les mamifere marin d'une tablette.
 
 ### Lien avec Mycelium
