@@ -25,6 +25,7 @@ Pour l'instant ce prototype est une petite partie de un pilier, un pilier qui es
 
 ## Installation prevue
 Plus tard ce projet va etre a l'exterieur et il va y avoir une multitude de piliers plus haut, il va avoir le systeme de detection de personne mais cette fois si ca ne va plus etre en dispositif voyant en bas du pilier, ils vont etre cacher dans le pilier pour une meilleur esthetique
+!(https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Mycelium/photo/Edria_shemas.png)
 
 ## Lien avec Mycelium
 
