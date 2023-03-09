@@ -37,6 +37,7 @@ Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumiè
 pour l'instant il ya un velo stationnaire que quand on pedale cela va evoyer de lenergie vers les empoules qui sont pour l'instant sur un escalier .
 ## Installation prevue
 Dans le future les lumieres vont etre accrocher aux braches d'un arbre et les lumiere vont avoir de differante couleur en fonction de la saison.
+![lumasol_shemas.png](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Mycelium/photo/lumasol_shemas.png)
 
 ## Lien avec Mycelium
 
