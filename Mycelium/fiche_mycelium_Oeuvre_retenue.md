@@ -1,4 +1,6 @@
-# [Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
+### [Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
+## allo
+# allo
 Réalisée par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
 
 Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Echomarine a un but contemplatif et vise à conscientiser.
@@ -28,6 +30,10 @@ pour l'instant il ya un velo stationnaire que quand on pedale cela va evoyer de 
 Dans le future les lumieres vont etre accrocher aux braches d'un arbre et les lumiere vont avoir de differante couleur en fonction de la saison.
 
 # [Boucler la boucle](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html)
+Réalisée par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
+
+
+Les visiteurs empruntent ce sentier illuminé. Lors de leurs déplacements, ceux-ci se rendent compte que le sentier interagit à leurs passages; les lumières commencent à scintiller et les sons s'intensifient pour donner un sentiment serein. Dans le chemin lumineux se trouve des codes QR qui, une fois scannés, présentent une animation qui montrant la vie dans ce marais.
 
 
 
