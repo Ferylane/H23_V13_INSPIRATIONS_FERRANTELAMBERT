@@ -14,7 +14,7 @@ plus tard ce projet sera dans un espace plus grand et on pourait faire apparaitr
 
 
 
-# [ENTRE FUNGUS](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
+# [Edria](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 Réalisée par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche ,Jean-Christophe
 
 Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnue : Entre Fungus. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous leurs yeux. Une structure centrale attire l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et s'approchent de la dite structure: des lumières s'allument, des sons se déclenchent, et il semblerait que la présence de plusieurs personnes soit nécessaire pour progresser...
