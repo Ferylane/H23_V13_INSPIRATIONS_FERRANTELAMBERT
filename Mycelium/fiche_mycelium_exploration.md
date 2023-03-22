@@ -10,9 +10,12 @@ pour l'instant il ya un velo stationnaire que quand on pedale cela va evoyer de 
 Dans le future les lumieres vont etre accrocher aux braches d'un arbre et les lumiere vont avoir de differante couleur en fonction de la saison.
 ![lumasol_shemas.png](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Mycelium/photo/lumasol_shemas.png)
 
-## Cours incontounables pour ce  genre de projets
+## Cours incontounables pour ce genre de projets
 
 ## Composante technologique
+
+## Note personnelle
+J'ai placé cette oeuvre en premiere place, car...
 
 # [Edria](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 Réalisée par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, Jean-Christophe
@@ -32,6 +35,9 @@ Plus tard ce projet va etre a l'exterieur et il va y avoir une multitude de pili
 
 ## Composante technologique
 
+## Note personnelle
+J'ai placé cette oeuvre en deuxieme place, car...
+
 # [Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
 Réalisée par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
@@ -50,6 +56,8 @@ plus tard ce projet sera dans un espace plus grand et on pourait faire apparaitr
 
 ## Composante technologique
 
+## Note personnelle
+J'ai placé cette oeuvre en troisieme place, car...
 
 # [Boucler la boucle](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html)
 Réalisée par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
@@ -64,6 +72,9 @@ Les visiteurs empruntent ce sentier illuminé. Lors de leurs déplacements, ceux
 ## Cours incontounables pour ce  genre de projets
 
 ## Composante technologique
+
+## Note personnelle
+J'ai placé cette oeuvre en quatrieme place, car...
 
 
 
