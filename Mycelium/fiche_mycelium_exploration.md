@@ -17,6 +17,8 @@ Dans le future les lumieres vont etre accrocher aux braches d'un arbre et les lu
 ## Note personnelle
 J'ai placé cette oeuvre en premiere place, car je trouver l'idee ingenieuse, ca combine le sport (le velo stationaire) et l'artistique (les lumieres et la musique). j'aime beaucoup le fait que les couleurs et la musique change en fonction de la saison de l'annee.
 
+je crois que quand je vais experimenter cette oeuvre je vais beaucoup aimer vu que ca fait faire du sport et que je doit me remettre au sport puis vu qu'on a du divertisement en meme temps je vais surement etre motiver a l'essayer.
+
 # [Edria](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 Réalisée par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, Jean-Christophe
 
@@ -37,6 +39,8 @@ Plus tard ce projet va etre a l'exterieur et il va y avoir une multitude de pili
 
 ## Note personnelle
 J'ai placé cette oeuvre en deuxieme place, car je trouve que l'idee est bonne le coter estetique est tres beau les bruit son melodieux mais ce que j'ai pas aimer justement est que les quatre bruits en meme temps ne vont pas tres bien ensemble.
+
+je crois que quand je vais experimenter cette oeuvre je vais trouver ca beau artisitiquement, le fait que a chaque endroit que on va fait un bruit different, est une pure satifaction. 
 
 # [Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
@@ -59,6 +63,8 @@ plus tard ce projet sera dans un espace plus grand et on pourait faire apparaitr
 ## Note personnelle
 J'ai placé cette oeuvre en troisieme place, car c'est celui je qui avait le moin d'interaction, musique ne change pas et c'est un projet plus pour relaxer ce que moi je n'aime pas trop.
 
+je crois que quand je vais experimenter cette oeuvre je vais surement me sentir relaxer avec tout l'univers marin autour de moi.
+
 # [Boucler la boucle](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html)
 Réalisée par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
 
@@ -75,6 +81,8 @@ Les visiteurs empruntent ce sentier illuminé. Lors de leurs déplacements, ceux
 
 ## Note personnelle
 J'ai placé cette oeuvre en quatrieme place, car...
+
+je crois que quand je vais experimenter cette oeuvre 
 
 
 
