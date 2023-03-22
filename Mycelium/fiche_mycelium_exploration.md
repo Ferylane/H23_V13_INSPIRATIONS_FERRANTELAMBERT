@@ -13,6 +13,7 @@ Dans le future les lumieres vont etre accrocher aux braches d'un arbre et les lu
 ## Cours incontounables pour ce genre de projets
 
 ## Composante technologique
+il utilise un Magrétomètre ce qui est aussi connu sous le nom de boussole numérique ou capteur magnétique, un magnétomètre est un appareil qui mesure l'intensité et l'orientation du champ magnétique terrestre.
 
 ## Note personnelle
 J'ai placé cette oeuvre en premiere place, car je trouver l'idee ingenieuse, ca combine le sport (le velo stationaire) et l'artistique (les lumieres et la musique). j'aime beaucoup le fait que les couleurs et la musique change en fonction de la saison de l'annee.
