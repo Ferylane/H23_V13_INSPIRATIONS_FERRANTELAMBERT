@@ -37,6 +37,7 @@ Plus tard ce projet va etre a l'exterieur et il va y avoir une multitude de pili
 ## Cours incontounables pour ce  genre de projets
 
 ## Composante technologique
+ils utilisent des lumières adressables est également appelée bande LED numérique, bande LED pixel, bande LED magique ou bande LED Dream Color, est une bande LED avec des circuits intégrés de contrôle qui vous permettent de contrôler des LED individuelles ou des groupes de LED. Vous pouvez contrôler une partie spécifique de la bande led, c'est pourquoi elle est appelée "adressable".
 
 ## Note personnelle
 J'ai placé cette oeuvre en deuxieme place, car je trouve que l'idee est bonne le coter estetique est tres beau les bruit son melodieux mais ce que j'ai pas aimer justement est que les quatre bruits en meme temps ne vont pas tres bien ensemble.
