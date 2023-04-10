@@ -12,6 +12,7 @@ Dans le future les lumieres vont etre accrocher aux braches d'un arbre et les lu
 ![lumasol_shemas.png](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Mycelium/photo/lumasol_shemas.png)
 
 ## Cours incontounables pour ce genre de projets
+audio, programation interactive, web
 
 ## Composante technologique
 il utilise un Magrétomètre ce qui est aussi connu sous le nom de boussole numérique ou capteur magnétique, un magnétomètre est un appareil qui mesure l'intensité et l'orientation du champ magnétique terrestre.
@@ -62,6 +63,7 @@ plus tard ce projet sera dans un espace plus grand et on pourait faire apparaitr
 ## Cours incontounables pour ce  genre de projets
 
 ## Composante technologique
+ils utilisent une kinect, initialement connu sous le nom de code Project Natal1, est un périphérique destiné au matériel Microsoft avec la Xbox 360 pour la V1 et la Xbox One et Windows depuis la V2 permettant de contrôler une interface sans utiliser de manette. Il a été conçu par Microsoft en septembre 20082.
 
 ## Note personnelle
 J'ai placé cette oeuvre en troisieme place, car c'est celui je qui avait le moin d'interaction, musique ne change pas et c'est un projet plus pour relaxer ce que moi je n'aime pas trop.
@@ -81,9 +83,11 @@ Les visiteurs empruntent ce sentier illuminé. Lors de leurs déplacements, ceux
 ## Cours incontounables pour ce  genre de projets
 
 ## Composante technologique
+ils utilisent des Festoon String, qui augmente la longueur du Festoon pour obtenir des courses plus longues. Utilisez jusqu'à 2 cordes par Festoon pour créer une corde de 150 pi (45 m). L'installation et la connexion de Festoon String aux unités Festoon existantes se font sans effort. Il est classé IP pour une utilisation en extérieur dans des endroits humides, ce qui le rend parfait pour les festivals et autres événements en plein air.
+
 
 ## Note personnelle
-J'ai placé cette oeuvre en quatrieme place, car...
+J'ai placé cette oeuvre en quatrieme place, car je n'ai pas vraiment compris le project
 
 je crois que quand je vais experimenter cette oeuvre 
 
