@@ -3,9 +3,10 @@ Réalisée par Éloïse Gagné, Skayla Stimphil, Michaël Simard, Pénélope Mor
 
 Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumière et un rythme musicale à partir d'un vélo stationnaire. Quand quelqu'un monte sur le vélo et pédale, cela illumine les Dels qui entourent l'arbre et celles qui seront suspendues aux bouts de certaines branches sous la forme de feuilles. D'autres DEl en forment de fleurs seront sur les plantes environnantes . Toutes ces DEL adressables s'éclairent selon le rythme de l'utilisateur et s'arrêtent automatiquement dès qu'il arrête de pédalé. Les couleurs sont prédéfinis en avance.
 
+Pour l'instant il y a un velo stationnaire que quand on pedale cela va evoyer de lenergie vers les empoules qui sont pour l'instant sur un escalier .
+
 ## Lien avec Mycelium
 
-pour l'instant il ya un velo stationnaire que quand on pedale cela va evoyer de lenergie vers les empoules qui sont pour l'instant sur un escalier .
 ## Installation prevue
 Dans le future les lumieres vont etre accrocher aux braches d'un arbre et les lumiere vont avoir de differante couleur en fonction de la saison.
 ![lumasol_shemas.png](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Mycelium/photo/lumasol_shemas.png)
