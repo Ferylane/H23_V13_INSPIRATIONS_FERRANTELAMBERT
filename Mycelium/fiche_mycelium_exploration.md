@@ -12,7 +12,7 @@ Dans le future les lumieres vont etre accrocher aux braches d'un arbre et les lu
 ![lumasol_shemas.png](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Mycelium/photo/lumasol_shemas.png)
 
 ## Cours incontounables pour ce genre de projets
-audio, programation interactive, web
+Pour ce genre de projet on a surtout besoin de cours d'audio, de programation interactive et de web.
 
 ## Composante technologique
 il utilise un Magrétomètre ce qui est aussi connu sous le nom de boussole numérique ou capteur magnétique, un magnétomètre est un appareil qui mesure l'intensité et l'orientation du champ magnétique terrestre.
@@ -37,6 +37,7 @@ Plus tard ce projet va etre a l'exterieur et il va y avoir une multitude de pili
 ![edria_shemas.png](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Mycelium/photo/Edria_shemas.png)
 
 ## Cours incontounables pour ce  genre de projets
+Pour ce genre de projet on a surtout besoin de cours d'audio, de programation interactive et de web.
 
 ## Composante technologique
 ils utilisent des lumières adressables est également appelée bande LED numérique, bande LED pixel, bande LED magique ou bande LED Dream Color, est une bande LED avec des circuits intégrés de contrôle qui vous permettent de contrôler des LED individuelles ou des groupes de LED. Vous pouvez contrôler une partie spécifique de la bande led, c'est pourquoi elle est appelée "adressable".
@@ -61,6 +62,7 @@ plus tard ce projet sera dans un espace plus grand et on pourait faire apparaitr
 ![echomarine_shemas.png](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Mycelium/photo/echomarine_shemas.png)
 
 ## Cours incontounables pour ce  genre de projets
+Pour ce genre de projet on a surtout besoin de cours d'audio, de programation interactive et de web.
 
 ## Composante technologique
 ils utilisent une kinect, initialement connu sous le nom de code Project Natal1, est un périphérique destiné au matériel Microsoft avec la Xbox 360 pour la V1 et la Xbox One et Windows depuis la V2 permettant de contrôler une interface sans utiliser de manette. Il a été conçu par Microsoft en septembre 20082.
@@ -81,6 +83,7 @@ Les visiteurs empruntent ce sentier illuminé. Lors de leurs déplacements, ceux
 ![boucler la boucle_shemas.png](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Mycelium/photo/Boucler%20la%20boucle_shemas.png)
 
 ## Cours incontounables pour ce  genre de projets
+Pour ce genre de projet on a surtout besoin de cours d'audio, de programation interactive et de web.
 
 ## Composante technologique
 ils utilisent des Festoon String, qui augmente la longueur du Festoon pour obtenir des courses plus longues. Utilisez jusqu'à 2 cordes par Festoon pour créer une corde de 150 pi (45 m). L'installation et la connexion de Festoon String aux unités Festoon existantes se font sans effort. Il est classé IP pour une utilisation en extérieur dans des endroits humides, ce qui le rend parfait pour les festivals et autres événements en plein air.
