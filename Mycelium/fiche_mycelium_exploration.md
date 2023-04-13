@@ -6,6 +6,7 @@ Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumiè
 Pour l'instant il y a un velo stationnaire que quand on pedale cela va evoyer de lenergie vers les empoules qui sont pour l'instant sur un escalier .
 
 ## Lien avec Mycelium
+le lien est que la lumiere qui entour larbre est comme si on voyit la nature comuniquer avec nous comme les racines qui grandis et qui nous offre le champignon.
 
 ## Installation prevue
 Dans le future les lumieres vont etre accrocher aux braches d'un arbre et les lumiere vont avoir de differante couleur en fonction de la saison.
@@ -31,6 +32,7 @@ Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnu
 Pour l'instant ce prototype est une petite partie de un pilier, un pilier qui est composer de quatre cote et chaque cote a un mechanisme qui peut reconnaitre quand une personne est devant et cela dechlanche un son, chaque cote fait un son et plus de cote activer fait une meilleur melodie. Il y a aussi un spectacle de couleurs avec de la verdure autour.
 
 ## Lien avec Mycelium
+le lien est que on dirait que la nature a prit controle de la structure comme les racines qui relie la terre et le champignon.
 
 ## Installation prevue
 Plus tard ce projet va etre a l'exterieur et il va y avoir une multitude de piliers plus haut, il va avoir le systeme de detection de personne mais cette fois si ca ne va plus etre en dispositif voyant en bas du pilier, ils vont etre cacher dans le pilier pour une meilleur esthetique
@@ -55,6 +57,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 ![echomarine_video.mp4](https://www.youtube.com/shorts/6SkJz_1LyKA)
 
 ## Lien avec Mycelium
+le lien est que il y a des racines partout meme dans les fonds marins.
 
 Il y a des projection sur les murs grace a des projecteurs avec un ordinateur qui nous permet de faire appparaitre des creatures marin sur les murs et une description du mamifere avec une trame sonor calmant en arriere plan.
 ## Installation prevue
@@ -78,6 +81,7 @@ Réalisée par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des
 Les visiteurs empruntent ce sentier illuminé. Lors de leurs déplacements, ceux-ci se rendent compte que le sentier interagit à leurs passages; les lumières commencent à scintiller et les sons s'intensifient pour donner un sentiment serein. Dans le chemin lumineux se trouve des codes QR qui, une fois scannés, présentent une animation qui montrant la vie dans ce marais.
 
 ## Lien avec Mycelium
+le lein est la lumiere qui nous suis et reagis comme les racines quand on arrache le champinion, les racines vont suivre le rithme et va attendre pour le prochain champignon.
 
 ## Installation prevue
 ![boucler la boucle_shemas.png](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Mycelium/photo/Boucler%20la%20boucle_shemas.png)
@@ -92,7 +96,7 @@ ils utilisent des Festoon String, qui augmente la longueur du Festoon pour obten
 ## Note personnelle
 J'ai placé cette oeuvre en quatrieme place, car je n'ai pas vraiment compris le project
 
-je crois que quand je vais experimenter cette oeuvre 
+je crois que quand je vais experimenter cette oeuvre ca va me procurer du bonheur car j'aime beaucoup le rithme parfait (perfect timing) et cette oeuvre est a propos de ca, la lumiere qui nous suis a chaque pas.
 
 
 
