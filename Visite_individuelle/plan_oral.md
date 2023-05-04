@@ -16,9 +16,9 @@ L'œuvre est une trame sonore émotionnelle avec des visuels qui ont pour but de
 
 ## Expérience vécue
 
-[![oeuvre_individuel_3]](https://youtube.com/shorts/CV8Y6lafip4)![oui](https://youtube.com/shorts/2GT3x6t8AFo)
+[![oeuvre_1]](https://youtube.com/shorts/CV8Y6lafip4)[![oeuvre_2]](https://youtube.com/shorts/2GT3x6t8AFo)
 Moi personnellement, j'ai trouvé que les visuels étaient beaux et que la trame sonore était bien, mais mes attentes en y allant étaient plus hautes. Ce que j'ai vraiment pas aimé, ce qui m'a déconcentré pendant un bon bout de temps de l'œuvre, c'est que les visuels n'étaient pas répartis partout dans la salle, une partie du mur et le plafond au complet n'étaient pas engloutis par la lumière ce qui cassait l'immersion, j'aurais encore plus apprécié si cela avait pas été le cas. Et je ne sais pas pourquoi, mais au milieu des 30 minutes allouées pour cette œuvre, j'ai commencé à sentir un sentiment de vertige. Donc je vous déconseille de faire cette expérience debout.
-![problème immersion](https://youtube.com/shorts/CuBvksQNf-c)
+[![problème immersion]](https://youtube.com/shorts/CuBvksQNf-c)
 
 ## Lien avec d'autres œuvres
 
