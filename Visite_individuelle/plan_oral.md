@@ -9,4 +9,4 @@ l'oeuvre est une trame sonor emotionel avec des visuels qui ont pour but de ress
 Moi personelement, j'ai trouvé que les visuel etait beau et que la trame sonor etait bien, mais mes expectation en allant la bas etait plus haut. 
 
 
-ce que j'ai vraiment pas aimer, ce truc mas deconcentrer pandant un bon bout de temps de l'oeuvre, c'est que la distance des proojecteur
+ce que j'ai vraiment pas aimer, ce truc mas deconcentrer pandant un bon bout de temps de l'oeuvre, c'est que les visuels était pas répartie partout dans la salle, une partie du mur et le plafond au complet était pas englouti par la lumière, j'assurai encore plus apprécié si cela aurai été le cas. Et je c pas pourquoi mais au milieu, des 30 minute allouer pour cette oeuvre, j'ai commmencer à sentir un sentiment de vertige. Donc je vous déconseille de faire cette expérience debout.
