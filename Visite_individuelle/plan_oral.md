@@ -1,5 +1,9 @@
 # [Dernière minutes](https://phi.ca/fr/evenements/derniere-minute/)
 
+<img src="https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Visite_individuelle/photo/derniere_minute.jpg">
+
+### [source_image](https://phi.ca/fr/evenements/derniere-minute/)
+
 Bonjour, aujourd'hui je vais vous parler de mon expérience à l'œuvre intitulée "Dernière minute" au Centre Phi. Cette œuvre est une symbolique d'un avant et d'un après, du corps sur le point de passer de l’autre côté. Je vais présenter des détails sur l'œuvre, je vais vous faire part de mon expérience vécue, de mon opinion personnelle et des liens avec d'autres œuvres similaires.
 
 Comme dit précédemment, cette œuvre s'appelle "Dernière minute", elle est le fruit de la création de la compagnie Adrien Mondot & Claire Bardainne qui sont les fondateurs de la compagnie en 2011. Cette œuvre multimédia temporaire a été confectionnée en 2021. Elle a été exposée au Centre PHI à Montréal sur la rue Saint-Paul O dans une salle rectangulaire. Le Centre Phi est un mélange d'art, de cinéma, de musique, de design et de technologie. Ils favorisent des rencontres entre les artistes et le public. J'y suis allé le 28 février 2023.
