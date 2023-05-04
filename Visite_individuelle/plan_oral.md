@@ -4,6 +4,8 @@ Bonjour, aujourd'hui je vais vous parler de mon expérience à l'œuvre intitul�
 
 Comme dit précédemment, cette œuvre s'appelle "Dernière minute", elle est le fruit de la création de la compagnie Adrien Mondot & Claire Bardainne qui sont les fondateurs de la compagnie en 2011. Cette œuvre multimédia temporaire a été confectionnée en 2021. Elle a été exposée au Centre PHI à Montréal sur la rue Saint-Paul O dans une salle rectangulaire. Le Centre Phi est un mélange d'art, de cinéma, de musique, de design et de technologie. Ils favorisent des rencontres entre les artistes et le public. J'y suis allé le 28 février 2023.
 
+<img width="50%" src="https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Visite_individuelle/photo/croquis.png">
+
 ## Description de l'œuvre
 
 L'œuvre est une trame sonore émotionnelle avec des visuels qui ont pour but de ressentir la naissance et la mort, les deux sont en harmonie pour une expérience hors de ce monde. Les visuels sont projetés par des projecteurs accrochés au plafond pour exposer le visuel sur toutes les surfaces possibles pour une immersion totale. Les murs étaient derrière des rideaux noirs pour cacher les fils qui entouraient la salle. De gros haut-parleurs sont à chaque coin de mur pour assurer un niveau de son égal dans toute la salle. Il y avait un mur transparent perpendiculaire à l'un des côtés de la salle.
