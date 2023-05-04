@@ -1,6 +1,6 @@
 # [Dernière minutes](https://phi.ca/fr/evenements/derniere-minute/)
 
-<img src="https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Visite_individuelle/photo/derniere_minute.jpg">
+<img width="49%" src="https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Visite_individuelle/photo/derniere_minute.jpg"><img width="49%" src="https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Visite_individuelle/photo/derniere_minute_2.jpg">
 
 ### [source_image](https://phi.ca/fr/evenements/derniere-minute/)
 
