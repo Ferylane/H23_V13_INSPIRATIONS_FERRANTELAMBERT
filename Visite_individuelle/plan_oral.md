@@ -6,7 +6,7 @@ Comme dit précédemment, cette œuvre s'appelle "Dernière minute", elle est le
 
 ## Description de l'œuvre
 
-L'œuvre est une trame sonore émotionnelle avec des visuels qui ont pour but de ressentir la naissance et la mort, les deux sont en harmonie pour une expérience hors de ce monde. Les visuels sont projetés par des projecteurs accrochés au plafond pour exposer le visuel sur toutes les surfaces possibles pour une immersion totale. Les murs étaient derrière des rideaux noirs pour cacher les fils qui entouraient la salle. ![equipement_2.JPEG](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Visite_individuelle/photo/equipement_2.JPEG)De gros haut-parleurs sont à chaque coin de mur pour assurer un niveau de son égal dans toute la salle. Il y avait un mur transparent perpendiculaire à l'un des côtés de la salle.
+L'œuvre est une trame sonore émotionnelle avec des visuels qui ont pour but de ressentir la naissance et la mort, les deux sont en harmonie pour une expérience hors de ce monde. Les visuels sont projetés par des projecteurs accrochés au plafond pour exposer le visuel sur toutes les surfaces possibles pour une immersion totale.![equipement_3.JPEG](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Visite_individuelle/photo/equipement_3.JPEG) Les murs étaient derrière des rideaux noirs pour cacher les fils qui entouraient la salle. ![equipement_2.JPEG](https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Visite_individuelle/photo/equipement_2.JPEG)De gros haut-parleurs sont à chaque coin de mur pour assurer un niveau de son égal dans toute la salle. Il y avait un mur transparent perpendiculaire à l'un des côtés de la salle.
 
 
 ## Expérience vécue
