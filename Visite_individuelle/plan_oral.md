@@ -14,3 +14,7 @@ Moi personelement, j'ai trouvé que les visuel etait beau et que la trame sonor 
 
 
 ce que j'ai vraiment pas aimer, ce truc mas deconcentrer pandant un bon bout de temps de l'oeuvre, c'est que les visuels était pas répartie partout dans la salle, une partie du mur et le plafond au complet était pas englouti par la lumière, j'assurai encore plus apprécié si cela aurai été le cas. Et je c pas pourquoi mais au milieu, des 30 minute allouer pour cette oeuvre, j'ai commmencer à sentir un sentiment de vertige. Donc je vous déconseille de faire cette expérience debout.
+
+## lien avec d'autre oeuvre
+
+cette oeuvre ma faite pensser a la plus part de ceux de mycelium, ils sont tous des oeuvre multimedia et le fait que les trames sonor sont en syncronisation parfaite avec les visuels qui cree un sentiment de compliciter. ceux-ci utilise des haut parleur et aussi des projecteurs comme "derniere minutes".
