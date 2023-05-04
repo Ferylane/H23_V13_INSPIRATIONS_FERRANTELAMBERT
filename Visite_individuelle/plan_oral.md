@@ -6,15 +6,20 @@ Comme dit precedament cette oeuvre sapelle "Dernière minute", elle est le fruit
  
 ## description de l'oeuvre
 
-l'oeuvre est une trame sonor emotionel avec des visuels qui ont pour but de ressantir la naissance et la mort,  les deux sont en harmonie pour une experience hors de ce monde. les visuels sont projeter par des projecteurs accrocher au plafond pour exposer le visuel sur tout les surfaces possiblepour une imersion totale. Des gros haut parleur sont a chaque coin de mur pour assurer un niveau de son egale dans toute la salle. Il y avait un mur transparant perpendiculaire au un des coté de la salle.
+l'oeuvre est une trame sonor emotionel avec des visuels qui ont pour but de ressantir la naissance et la mort,  les deux sont en harmonie pour une experience hors de ce monde. les visuels sont projeter par des projecteurs accrocher au plafond pour exposer le visuel sur tout les surfaces possiblepour une imersion totale. Les murs etait deriere des rideau noir pour cacher les files qui entourait la salle. Des gros haut parleur sont a chaque coin de mur pour assurer un niveau de son egale dans toute la salle. Il y avait un mur transparant perpendiculaire au un des coté de la salle.
 
 ## expérience vécu
 
 Moi personelement, j'ai trouvé que les visuel etait beau et que la trame sonor etait bien, mais mes expectation en allant la bas etait plus haut.
 
 
-ce que j'ai vraiment pas aimer, ce truc mas deconcentrer pandant un bon bout de temps de l'oeuvre, c'est que les visuels était pas répartie partout dans la salle, une partie du mur et le plafond au complet était pas englouti par la lumière, j'assurai encore plus apprécié si cela aurai été le cas. Et je c pas pourquoi mais au milieu, des 30 minute allouer pour cette oeuvre, j'ai commmencer à sentir un sentiment de vertige. Donc je vous déconseille de faire cette expérience debout.
+ce que j'ai vraiment pas aimer, ce truc mas deconcentrer pandant un bon bout de temps de l'oeuvre, c'est que les visuels était pas répartie partout dans la salle, une partie du mur et le plafond au complet était pas englouti par la lumière ce qui cassait l'immersion, j'aurai encore plus apprécié si cela aurai été le cas. Et je c pas pourquoi mais au milieu, des 30 minute allouer pour cette oeuvre, j'ai commmencer à sentir un sentiment de vertige. Donc je vous déconseille de faire cette expérience debout.
 
 ## lien avec d'autre oeuvre
 
 cette oeuvre ma faite pensser a la plus part de ceux de mycelium, ils sont tous des oeuvre multimedia et le fait que les trames sonor sont en syncronisation parfaite avec les visuels qui cree un sentiment de compliciter. ceux-ci utilise des haut parleur et aussi des projecteurs comme "derniere minutes".
+
+## Conclusion
+
+Pour conclure, c'est une bonne experience mais rester assis est la meuilleur option et ne pas regarder le plafond, cela va casser l'immersion de l'experience.
+Ce que j'ai retenue cette session est, comme je le repete encore, que l'harmonie entre l'audio et le visuel est tres important pour une bonne experience 
