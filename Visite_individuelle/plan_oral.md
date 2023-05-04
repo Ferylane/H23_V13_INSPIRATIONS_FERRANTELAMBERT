@@ -2,7 +2,7 @@
 
 <img width="49%" src="https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Visite_individuelle/photo/derniere_minute.jpg"><img width="49%" src="https://github.com/Ferylane/H23_V13_INSPIRATIONS_FERRANTELAMBERT/blob/main/Visite_individuelle/photo/derniere_minute_2.jpg">
 
-### [source_image](https://phi.ca/fr/evenements/derniere-minute/)
+### [source_image_droite](https://phi.ca/fr/evenements/derniere-minute/) [source_image_gauche](https://www.lapresse.ca/arts/arts-visuels/2022-11-12/centre-phi/naitre-et-mourir-en-30-minutes.php)
 
 Bonjour, aujourd'hui je vais vous parler de mon expérience à l'œuvre intitulée "Dernière minute" au Centre Phi. Cette œuvre est une symbolique d'un avant et d'un après, du corps sur le point de passer de l’autre côté. Je vais présenter des détails sur l'œuvre, je vais vous faire part de mon expérience vécue, de mon opinion personnelle et des liens avec d'autres œuvres similaires.
 
