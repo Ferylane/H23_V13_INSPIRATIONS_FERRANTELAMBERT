@@ -1,25 +1,21 @@
-# [Derniere Minutes](https://phi.ca/fr/evenements/derniere-minute/)
+# [Dernière minutes](https://phi.ca/fr/evenements/derniere-minute/)
 
-Bonjour, aujourd'hui je vais vous parler de mon experience a l'oeuvre intituler "Dernière minute" au centre phi. Cette oeuvre est une symbolique d'un avant et d'un apres, du corps sur le point de passer de l’autre côté. Je vais presenter des detailes sur l'oeuvre, je vais vous faire part de mon experience vécu, de mon opinion personel et des liens avec d'autre oeuvres similaire.
+Bonjour, aujourd'hui je vais vous parler de mon expérience à l'œuvre intitulée "Dernière minute" au Centre Phi. Cette œuvre est une symbolique d'un avant et d'un après, du corps sur le point de passer de l’autre côté. Je vais présenter des détails sur l'œuvre, je vais vous faire part de mon expérience vécue, de mon opinion personnelle et des liens avec d'autres œuvres similaires.
 
-Comme dit precedament cette oeuvre sapelle "Dernière minute", elle est le fruit de la création de La compagnie Adrien Mondot & Claire Bardainne qui sont les fondateur de la compagnie en 2011. Cette oeuvre multimedia temporaire a ete confectioner en 2021. Elle a ete exposer au centre PHI a Montreal sur la rue Saint-Paul O dans une salle rectangulaire. Le Centre PHI est un mélange d'art, de cinéma, de musique, de design et de technologie. Ils favorisent des rencontres entre les artistes et le public. J'y suis aller le 28 fevrier 2023.
- 
-## description de l'oeuvre
+Comme dit précédemment, cette œuvre s'appelle "Dernière minute", elle est le fruit de la création de la compagnie Adrien Mondot & Claire Bardainne qui sont les fondateurs de la compagnie en 2011. Cette œuvre multimédia temporaire a été confectionnée en 2021. Elle a été exposée au Centre PHI à Montréal sur la rue Saint-Paul O dans une salle rectangulaire. Le Centre Phi est un mélange d'art, de cinéma, de musique, de design et de technologie. Ils favorisent des rencontres entre les artistes et le public. J'y suis allé le 28 février 2023.
 
-l'oeuvre est une trame sonor emotionel avec des visuels qui ont pour but de ressantir la naissance et la mort,  les deux sont en harmonie pour une experience hors de ce monde. les visuels sont projeter par des projecteurs accrocher au plafond pour exposer le visuel sur tout les surfaces possiblepour une imersion totale. Les murs etait deriere des rideau noir pour cacher les files qui entourait la salle. Des gros haut parleur sont a chaque coin de mur pour assurer un niveau de son egale dans toute la salle. Il y avait un mur transparant perpendiculaire au un des coté de la salle.
+## Description de l'œuvre
 
-## expérience vécu
+L'œuvre est une trame sonore émotionnelle avec des visuels qui ont pour but de ressentir la naissance et la mort, les deux sont en harmonie pour une expérience hors de ce monde. Les visuels sont projetés par des projecteurs accrochés au plafond pour exposer le visuel sur toutes les surfaces possibles pour une immersion totale. Les murs étaient derrière des rideaux noirs pour cacher les fils qui entouraient la salle. De gros haut-parleurs sont à chaque coin de mur pour assurer un niveau de son égal dans toute la salle. Il y avait un mur transparent perpendiculaire à l'un des côtés de la salle.
 
-Moi personelement, j'ai trouvé que les visuel etait beau et que la trame sonor etait bien, mais mes expectation en allant la bas etait plus haut.
+## Expérience vécue
 
+Moi personnellement, j'ai trouvé que les visuels étaient beaux et que la trame sonore était bien, mais mes attentes en y allant étaient plus hautes. Ce que j'ai vraiment pas aimé, ce qui m'a déconcentré pendant un bon bout de temps de l'œuvre, c'est que les visuels n'étaient pas répartis partout dans la salle, une partie du mur et le plafond au complet n'étaient pas engloutis par la lumière ce qui cassait l'immersion, j'aurais encore plus apprécié si cela avait été le cas. Et je ne sais pas pourquoi, mais au milieu des 30 minutes allouées pour cette œuvre, j'ai commencé à sentir un sentiment de vertige. Donc je vous déconseille de faire cette expérience debout.
 
-ce que j'ai vraiment pas aimer, ce truc mas deconcentrer pandant un bon bout de temps de l'oeuvre, c'est que les visuels était pas répartie partout dans la salle, une partie du mur et le plafond au complet était pas englouti par la lumière ce qui cassait l'immersion, j'aurai encore plus apprécié si cela aurai été le cas. Et je c pas pourquoi mais au milieu, des 30 minute allouer pour cette oeuvre, j'ai commmencer à sentir un sentiment de vertige. Donc je vous déconseille de faire cette expérience debout.
+## Lien avec d'autres œuvres
 
-## lien avec d'autre oeuvre
-
-cette oeuvre ma faite pensser a la plus part de ceux de mycelium, ils sont tous des oeuvre multimedia et le fait que les trames sonor sont en syncronisation parfaite avec les visuels qui cree un sentiment de compliciter. ceux-ci utilise des haut parleur et aussi des projecteurs comme "derniere minutes".
+Cette œuvre m'a fait penser à la plupart de ceux de Mycelium, ils sont tous des œuvres multimédia et le fait que les trames sonores sont en synchronisation parfaite avec les visuels qui créent un sentiment de complicité. Ceux-ci utilisent des haut-parleurs et aussi des projecteurs comme "Dernière minute".
 
 ## Conclusion
 
-Pour conclure, c'est une bonne experience mais rester assis est la meuilleur option et ne pas regarder le plafond, cela va casser l'immersion de l'experience.
-Ce que j'ai retenue cette session est, comme je le repete encore, que l'harmonie entre l'audio et le visuel est tres important pour une bonne experience 
+Pour conclure, c'est une bonne expérience, mais rester assis est la meilleure option et ne pas regarder le plafond. Cela va casser l'immersion de l'expérience. Ce que j'ai retenu de cette session est, comme je le répète encore, que l'harmonie entre l'audio et le visuel est très importante pour une bonne expérience. 
